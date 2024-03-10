@@ -12,7 +12,7 @@ This repository contains a Scrapy project aimed at scraping data analyst job lis
  * On MacOS/Linux : source env/bin/activate
    
 ## Install Required Dependencies
- * Command: pip install scrap
+ * Command: pip install scrapy
    
 ## Run the Web Scraper
  * command: scrapy crawl Bim -o output.csv
